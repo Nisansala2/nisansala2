@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisansala Gamachchige</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">Following softwre enginering </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisansala2&label=Profile%20views&color=0e75b6&style=flat" alt="nisansala2" /> </p>
 
